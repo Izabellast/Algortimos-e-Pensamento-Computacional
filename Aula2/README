@@ -1,0 +1,68 @@
+# 🖥️ Exercícios em C
+
+Este repositório reúne meus primeiros exercícios desenvolvidos em **linguagem C**, como parte do meu processo de aprendizagem em programação.
+
+O objetivo é praticar os fundamentos da linguagem e desenvolver, aos poucos, minha **lógica de programação**.
+
+## 📚 Exercícios
+
+### 1. Cadastro de dados
+
+O primeiro exercício consiste em criar um programa capaz de receber e exibir algumas informações fornecidas pelo usuário.
+
+O programa solicita:
+
+* Inicial do nome;
+* Idade;
+* Altura.
+
+#### Conceitos praticados
+
+* Declaração de variáveis;
+* Tipos de dados (`int`, `float` e `char`);
+* Entrada de dados com `scanf()`;
+* Exibição de informações com `printf()`;
+* Formatação de valores na saída.
+
+---
+
+### 2. Cálculo de área e perímetro
+
+O segundo exercício calcula a **área** e o **perímetro de um jardim retangular** a partir do comprimento e da largura informados pelo usuário.
+
+#### Fórmulas utilizadas
+
+**Perímetro:**
+
+`P = 2 × (comprimento + largura)`
+
+**Área:**
+
+`A = comprimento × largura`
+
+#### Conceitos praticados
+
+* Variáveis do tipo `float`;
+* Entrada de dados com `scanf()`;
+* Operações matemáticas;
+* Atribuição de valores;
+* Exibição dos resultados com `printf()`.
+
+## 🎯 Objetivo
+
+Estes exercícios fazem parte da minha fase inicial de estudos em C. A proposta é construir uma base sólida nos fundamentos da programação antes de avançar para conceitos mais complexos.
+
+Estou utilizando esses exercícios para praticar e acompanhar minha **evolução na lógica de programação e no desenvolvimento em C**.
+
+## 🚀 Próximos passos
+
+Pretendo continuar evoluindo meus conhecimentos em C, explorando conceitos como:
+
+* Estruturas condicionais;
+* Laços de repetição;
+* Funções;
+* Vetores e matrizes;
+* Ponteiros;
+* Estruturas de dados.
+
+> 📌 Este repositório representa meu processo de aprendizagem e evolução na programação.

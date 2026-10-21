@@ -7,7 +7,6 @@ int n2;
 int soma;
 int subtracao;
 int multiplicacao;
-int divisao;
 
 printf("digite o primeiro número: ");
 scanf("%d", &n1);

@@ -2,3 +2,12 @@ node_modules/
 .env
 dist/
 *.log
+.DS_Store
+**/.DS_Store
+*.exe
+*.dSYM/
+Aula 4/main
+Aula 4/main2
+Aula 4/main3
+Aula 4/main4
+Aula 8/exerc3
